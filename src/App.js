@@ -13,7 +13,7 @@ function App() {
           Download Source Code
         </a>{" "}
         | Developed by{" "}
-        <a target="_blank" href="https://www.gauravghai.dev/">
+        <a target="_blank" href="https://www.linkedin.com/in/nayak-aditi/">
           Aditi Nayak
         </a>{" "}
         | Github Link{" "}
