@@ -83,7 +83,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 ## Feedback and Support
 
-If you have any feedback, suggestions, or issues with the Weather App, please feel free to [open an issue]([https://github.com/aditiravindranayak/weather-app-Reactjs/issues). Your feedback is valuable and helps improve the application for all users.
+If you have any feedback, suggestions, or issues with the Weather App, please feel free to [open an issue](https://github.com/aditiravindranayak/weather-app-Reactjs/issues). Your feedback is valuable and helps improve the application for all users.
 
 ---
 
