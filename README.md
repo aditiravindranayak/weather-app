@@ -71,7 +71,7 @@ To run the Weather App locally on your machine, follow these steps:
 
 ## Credits
 
-- **Gaurav Ghai**: Lead Developer - [GitHub Profile](https://github.com/gauravghai)
+- **Aditi Nayak**: Lead Developer - [GitHub Profile][https://github.com/aditiravindranayak]
 
 ## License
 
