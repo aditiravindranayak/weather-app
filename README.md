@@ -26,7 +26,7 @@ To run the Weather App locally on your machine, follow these steps:
 
 1. Clone the repository to your local machine using the following command:
    ```
-   git clone https://github.com/aditiravindranayak/weather-appReactjs.git
+   git clone https://github.com/aditiravindranayak/weather-app-Reactjs.git
    ```
 
 2. Navigate to the project directory:
