@@ -61,7 +61,7 @@ To run the Weather App locally on your machine, follow these steps:
 
 ## Screenshots
 
-![Screenshot 1]("C:\Users\Aditi Nayak\Downloads\Mumbai.png")
+<img width="960" alt="Mumbai" src="https://github.com/aditiravindranayak/weather-app/assets/109815646/31bdca27-1f76-436c-ab70-31542b7b2fb0">
 *Caption: Screenshot of the Weather App displaying current weather information.*
 
 ## Project Demonstration Video
